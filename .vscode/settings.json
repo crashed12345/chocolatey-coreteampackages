@@ -4,5 +4,8 @@
   "editor.tabSize": 2,
   "[powershell]": {
     "files.encoding": "utf8bom",
+  },
+  "files.watcherExclude": {
+    "**/target": true
   }
 }
